@@ -1,0 +1,13 @@
+# Batch scripts
+CreateModBackup.bat
+GenerateMod.bat
+RetrieveModBackup.bat
+UpdateMod.bat
+UploadMod.bat
+
+# Base game files backup
+base.zip
+Backup/*
+
+# Build files
+Gen/*
