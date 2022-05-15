@@ -8,3 +8,5 @@ Possible future ideas:
 - Modify distance scaling system to make map distances 1:1
 - Modify battlegroup decks to ensure available units are historically accurate
 - Modify forest mechanics to heavily dissuade moving armor through all but the thinnest of treelines
+
+If you want to contribute, either to the codebase or to the wiki, please open an issue in the issue tracker.
